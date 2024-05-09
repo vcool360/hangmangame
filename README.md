@@ -1,6 +1,6 @@
 # Hangman Game
 
-Welcome to my Hangman game project! This is a personal project I developed to sharpen my Python skills and get more familiar with web development using Flask. The game is simple but engaging: players guess letters to form a word before their hangman gets drawn completely.
+Welcome to my Hangman game project! This is a personal project I developed to sharpen my Python skills and get more familiar with web development using Flask. The game is simple: players guess letters to form a word before their hangman gets drawn completely.
 
 ## Features
 
