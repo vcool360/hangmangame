@@ -1,25 +1,27 @@
 # Hangman Game
 
-Welcome to my Hangman game project! This is a personal project I developed to sharpen my Python skills and get more familiar with web development using Flask. The game is simple: players guess letters to form a word before their hangman gets drawn completely.
+Welcome to my Hangman game project, hosted at [vatsalmodgil.pythonanywhere.com](http://vatsalmodgil.pythonanywhere.com)! This project is a personal endeavor to demonstrate my abilities with Python and the Flask web framework. Players are challenged to guess letters to form a word before their hangman gets fully drawn.
 
 ## Features
 
-- **Random Word Selection**: Each game picks a new word randomly from a curated list, making each playthrough unique.
-- **Graphical Hangman**: Enjoy seeing the hangman drawn step by step as incorrect guesses are made.
-- **Responsive Design**: Play comfortably on both desktop and mobile browsers.
-- **Game Restart Capability**: Easily start a new game once the current one ends, whether you win or lose.
+- **Dynamic Word Selection**: The game selects a new word randomly from a predefined list, providing a fresh challenge each time.
+- **Graphical Hangman Representation**: Watch as your hangman is drawn piece by piece with each incorrect guess.
+- **Responsive Design**: Optimized for a smooth experience on both desktop and mobile browsers.
+- **Immediate Game Restart**: Easily start a new game once the current game ends, regardless of win or loss.
+
+## Live Demo
+
+You can try the game live at: [http://vatsalmodgil.pythonanywhere.com](http://vatsalmodgil.pythonanywhere.com)
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project running on your local machine for development and testing purposes.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-You'll need the following installed to run the project:
-
-- Python 3.6 or higher
+Ensure you have the following installed:
+- Python 3.6+
 - Flask
-- gunicorn (recommended for deploying)
 
 ### Installation
 
