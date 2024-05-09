@@ -81,7 +81,7 @@
     <div class="container">
         <div class="game-section">
             <h1>Hangman Game</h1>
-            <p id="word">Word: {{ session.get('guessed', '_') }}</p>
+            <p id="word">Word: {{ session.get('guessed', '_ ') }}</p>
             <p id="tries">Tries left: {{ session.get('tries', 6) }}</p>
             <form action="/" method="post">
                 <input type="text" name="letter" maxlength="1" required>
